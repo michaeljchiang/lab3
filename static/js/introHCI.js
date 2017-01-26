@@ -32,8 +32,6 @@ function projectClick(e) {
     else{
     	description.fadeToggle();
     }
-    
-    
 }
 
 
