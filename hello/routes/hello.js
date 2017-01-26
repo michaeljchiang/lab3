@@ -11,6 +11,7 @@ exports.view = function(req, res){
 
   console.log("name is " + nameToShow);
 
+
   res.render('index', {
   	'name': nameToShow,
   });
